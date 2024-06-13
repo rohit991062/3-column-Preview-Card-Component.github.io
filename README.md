@@ -1,1 +1,0 @@
-# 3-column-Preview-Card-Component.github.io
